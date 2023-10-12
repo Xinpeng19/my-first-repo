@@ -1,6 +1,6 @@
 # my-first-repo
 Currently a senior at Brandeis
 
-Dengzi Yang, a second year MSF student
+Ziyang Deng, a second year MSF student in Brandeis International Business School.
 
 Jia Si, a second year MSF&MSBA student
